@@ -49,11 +49,6 @@ Our model achieves the following performance on active learning settings:
 |    SAM     |     86.3%    |     78.8%    |     57.0%    |     48.4%    |
 
 
-
-
- 
-
-
 ## Reference
 ```
 @article{kim2023saal,
@@ -62,3 +57,6 @@ Our model achieves the following performance on active learning settings:
   year={2023}
 }
 ```
+
+## Acknowledgements
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2021R1A2C200981612). Also, this work was supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (NO. 2022-0-00077, AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data).
