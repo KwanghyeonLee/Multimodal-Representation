@@ -28,8 +28,6 @@ Through the introduction and estimation of a new type of transition matrix via g
 ## Contribution
 By explicitly modeling the relation between the output of a classifier and the true label, NPC opens up new possibilities for formulating noisy label problems.
 
-
-
 ## Setup
 
 Install required libraries.
@@ -100,7 +98,8 @@ It will train NPC from the KNN prior and the corresponding base classifier with 
 }
 ```
 
-
+## Acknowledgements
+This research was supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
 
 
 
