@@ -34,3 +34,5 @@ Here, XXX is a specific experimental setting.
 This source code is released under the MIT license, included [here](./LICENSE). This project includes some code from [DomainBed](https://github.com/facebookresearch/DomainBed/tree/3fe9d7bb4bc14777a42b3a9be8dd887e709ec414), also MIT licensed.
 
 For additional questions or discussions, feel free to email me. (tmdwo0910@kaist.ac.kr)
+## Acknowledgements
+This research was supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
