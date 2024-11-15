@@ -57,5 +57,6 @@ python3 generate_diffrs.py \
 ```
 ## Acknowledgements
 This research was supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
-This work is heavily built upon the code from:
+
+This research is heavily built upon the code from:
 * [Kim, D., Kim, Y., Kwon, S. J., Kang, W., & Moon, I. C. (2023, July). Refining Generative Process with Discriminator Guidance in Score-based Diffusion Models. In *International Conference on Machine Learning (pp. 16567-16598). PMLR*.](https://github.com/aailabkaist/DG)
